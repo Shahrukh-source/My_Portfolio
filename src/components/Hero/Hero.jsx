@@ -38,7 +38,7 @@ const Hero = () => {
         <a className={css.resume} href="https://flowcv.com/resume/j5smtn2ks6">
           Resume
         </a>
-        <a className={css.profile} href="https://github.com/Shahrukh-source?tab=repositories">My GitHub Profile</a>
+       
 
 
         <div className={css.lowerElements}>
