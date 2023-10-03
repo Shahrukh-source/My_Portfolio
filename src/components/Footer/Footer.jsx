@@ -37,6 +37,7 @@ const Footer = () => {
            
             
             <li>Experience:1 Years</li>
+            <li>Mobile Number:7906851583 </li>
             
         <a className={css.email} href="mailto:sk1109697@gmail.com">
           sk1109697@gmail.com
