@@ -17,9 +17,11 @@ const Hero = () => {
             Hey There,
             <br />
             I'm Shahrukh khan.
+            <br/>
+            I am Frontend Developer
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            I design beautiful simple
+            I am Reactjs Developer
             <br />
             things, And I love what i do{" "}
           </motion.span>
