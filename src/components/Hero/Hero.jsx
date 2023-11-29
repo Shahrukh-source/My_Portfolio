@@ -20,11 +20,11 @@ const Hero = () => {
             <br/>
             I am Frontend Developer
           </motion.span>
-          <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
+          {/* <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
             I am Reactjs Developer
             <br />
             things, And I love what i do{" "}
-          </motion.span>
+          </motion.span> */}
         </div>
 
         <motion.div
