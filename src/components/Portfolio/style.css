@@ -1,0 +1,14 @@
+.same {
+  color: rgb(246, 244, 244);
+  text-align: center;
+  background-color: rgb(23, 23, 23, 0.7);
+  box-shadow: 10px 5px 5px rgb(6, 204, 29);
+  text-shadow: 6px 1px 6px rgb(23, 228, 53);
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  transition: all 1s ease-out;
+}
+.same:hover {
+  background-color: rgb(40, 63, 40);
+}

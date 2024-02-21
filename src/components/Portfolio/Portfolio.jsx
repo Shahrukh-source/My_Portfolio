@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import css from "./Portfolio.module.scss";
+import csss from "./style.css"
 import { fadeIn, staggerChildren, textVariant, textVariant2 } from "../../utils/motion";
 const Portfolio = () => {
   return (
@@ -26,6 +27,7 @@ const Portfolio = () => {
 
 
         <div className={`flexCenter ${css.showCase}`}>
+        <a className="same" href="https://css-netflix-project-with-responsible.vercel.app/">css-netflix-project-with-responsible</a>
         <a className="same" href="https://javascript-html-css-password-generator-project-wihq.vercel.app/">JAVASCRIPT-HTML-CSS_PASSWORD_GENERATOR_PROJECT</a>
         <a className="same" href="https://razorpay-tailwind-project.vercel.app/">Razorpay_With_Tailwind </a>
         <a className="same" href="https://react-blog-site-with-contextapi.vercel.app/">React_BLOGSITE_CONTEXTAPI_Project </a>
