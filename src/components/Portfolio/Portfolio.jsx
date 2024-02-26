@@ -27,6 +27,7 @@ const Portfolio = () => {
 
 
         <div className={`flexCenter ${css.showCase}`}>
+        <a className="same" href="https://html-css-javascript-ecomerce-website.vercel.app//">HTML_CSS_JAVASCRIPT_ECOMMERCE_PROJECT</a>
         <a className="same" href="https://css-netflix-project-with-responsible.vercel.app/">css-netflix-project-with-responsible</a>
         <a className="same" href="https://javascript-html-css-password-generator-project-wihq.vercel.app/">JAVASCRIPT-HTML-CSS_PASSWORD_GENERATOR_PROJECT</a>
         <a className="same" href="https://razorpay-tailwind-project.vercel.app/">Razorpay_With_Tailwind </a>
